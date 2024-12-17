@@ -3,7 +3,7 @@ https://discord.gg/SC2vK9asza
 ===================================================
 - 100% Safe
 - nothing related with mouse input / mouse_event ( using safe method )
-- Auto Detection Weapon ( when press 1 or 2 )
+- Auto Detection Weapon
 - Simple to use ( only need mouse sens )
 - Work all screen resolution ( check folder )
 ===================================================
