@@ -1,7 +1,7 @@
 https://discord.gg/SC2vK9asza
 
 ===================================================
-- 100% Safe
+- 10000% better than original code
 - nothing related with mouse input / mouse_event ( using safe method )
 - Auto Detection Weapon
 - Simple to use ( only need mouse sens )
