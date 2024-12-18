@@ -1,5 +1,5 @@
 https://discord.gg/SC2vK9asza
-https://www.virustotal.com/gui/file/d5372e421f4b07054284c19b42d4d1803607a3cdf6eb27eacf5c2fd2aca31bad
+[VIRUS TOTAL](https://www.virustotal.com/gui/file/7511a90dac3fd6a2fd9ad3fcc164bfb92e780c895039409714610ba1546fadef)
 ===================================================
 - 10000% better than original code
 - nothing related with mouse input / mouse_event ( using safe method )
