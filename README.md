@@ -2,7 +2,7 @@
 #### [VIRUS TOTAL](https://www.virustotal.com/gui/file/7511a90dac3fd6a2fd9ad3fcc164bfb92e780c895039409714610ba1546fadef)
 ===================================================
 - 1000% better than original code
-- nothing related with mouse input / mouse_event ( using safe method )
+- nothing related with mouse input / mouse_event ( using safe method that you cant use into aimbot )
 - Auto Detection Weapon
 - Simple to use ( only need mouse sens )
 - Work all screen resolution ( check folder )
