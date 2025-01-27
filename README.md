@@ -6,7 +6,7 @@
 - Auto Detection Weapon
 - Simple to use ( only need mouse sens )
 - Work all screen resolution ( check folder )
-- i dont make any update if you want buy source $100,00 usd
+- i dont make any update if you want buy source $75,00 usd
 ===================================================
 
 ![Untitled (1)](https://github.com/user-attachments/assets/7f05951f-e8f0-4bc4-99d5-0c02ccfbfbaa)
